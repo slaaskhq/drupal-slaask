@@ -1,6 +1,6 @@
 # drupal-slaask
 
-The Slaask module integrates the Slaask chat JavaScript into your Drupal site.
+The <a href="http://slaask.com">Slaask</a> module integrates the Slaask chat JavaScript into your Drupal site.
 
 ## Requirements
 
